@@ -1,1 +1,1 @@
-handler = "uppercase"
+handler = "uppercase&main=com.example.uppercase.UppercaseApp"
